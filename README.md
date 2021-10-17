@@ -1,0 +1,2 @@
+# Logistic_Regression_with_a_Neural_Network_mindset
+Programming Basics warm up exercise. Logistic_Regression_with_a_Neural_Network_mindset
